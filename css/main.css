@@ -29,6 +29,8 @@ section {
 .wrapper {
   display: flex;
   flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 45em;
 }
 
 .img-flex {
